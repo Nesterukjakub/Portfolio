@@ -28,8 +28,8 @@ Szkolenie Indywidualne tester manualny 15.07.2022
 ## MY BUGS FOR 
 * [Niedziałający breadcrumb](https://drive.google.com/file/d/1L6_uW6OnDNJffdJZ2vZ0CyAeyIp2-SxH/view?usp=sharing)
 * [Niedostępne pozycje wyświetlają się przy włączonym filtrze "Tylko dostępne"](https://drive.google.com/file/d/1WuaAyIHh34Eotec8a9BBRtDyjwPCFRV_/view?usp=sharing)
-* [Możliwe jest zarejestrowanie konta bez potwierdzenia adresu email] (https://drive.google.com/file/d/1zCMrUhhBI_Cm5gtw7uDYVofoz0yHgRkv/view?usp=sharing)
-* [Zmiana ilości produktów przy wolnym intecie] (https://drive.google.com/file/d/1j8fpnVonbloJnTtUZqnn68zqrvMlohIP/view?usp=sharing)
+* [Możliwe jest zarejestrowanie konta bez potwierdzenia adresu email](https://drive.google.com/file/d/1zCMrUhhBI_Cm5gtw7uDYVofoz0yHgRkv/view?usp=sharing)
+* [Zmiana ilości produktów przy wolnym intecie](https://drive.google.com/file/d/1j8fpnVonbloJnTtUZqnn68zqrvMlohIP/view?usp=sharing)
 
 ## MY REPORT
 ## MY REPORT FOR 
