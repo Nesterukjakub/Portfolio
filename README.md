@@ -9,7 +9,7 @@ I am young student with many technical skills. I am very motivated to become QA
 * Creating test cases
 * Reporting bugs
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 15.07.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
